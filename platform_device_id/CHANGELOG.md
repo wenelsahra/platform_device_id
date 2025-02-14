@@ -1,3 +1,6 @@
+## 2.0.0
+Breaking: Remove registerWith method from the plugin class
+
 ## 1.0.1
 update dependencies
 
